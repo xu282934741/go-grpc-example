@@ -1,3 +1,3 @@
 # go-grpc-example
-hello go2 , hello world2
+hello go3 , hello world3
 
